@@ -46,7 +46,7 @@ public class Scobra {
 
 		} finally {
 
-		in.close();
+			in.close();
 
 		}
 
